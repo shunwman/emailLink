@@ -1,0 +1,5 @@
+.env
+./JWT-Authentication-master/.env
+FirebaseConfig.js
+
+node_modules
