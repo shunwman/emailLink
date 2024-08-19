@@ -16,7 +16,7 @@ How to run the frontend:
 
 2.npm install 
 
-3.create FireBaseConfig.js
+3.cd src & create FireBaseConfig.js 
 
 4.npm run start
 
